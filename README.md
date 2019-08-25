@@ -14,6 +14,7 @@ Vue.js +node/express + mongoDb sample, chart.js use
 ***
 ### more
 
+https://knaka0209.hatenablog.com/entry/vue_express_8
 
 ***
 
